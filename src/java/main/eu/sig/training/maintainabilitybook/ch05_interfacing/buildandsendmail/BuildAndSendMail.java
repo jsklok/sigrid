@@ -1,4 +1,4 @@
-package eu.sig.training.ch05.buildandsendmail;
+package main.eu.sig.training.maintainabilitybook.ch05_interfacing.buildandsendmail;
 
 /**
  * 

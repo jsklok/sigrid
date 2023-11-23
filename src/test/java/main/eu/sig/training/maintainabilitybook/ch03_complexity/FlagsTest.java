@@ -1,4 +1,4 @@
-package eu.sig.training.ch03;
+package main.eu.sig.training.maintainabilitybook.ch03_complexity;
 
 import static org.junit.Assert.assertEquals;
 

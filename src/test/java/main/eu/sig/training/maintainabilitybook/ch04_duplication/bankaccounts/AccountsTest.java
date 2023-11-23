@@ -1,5 +1,5 @@
 // tag::AccountsTest[]
-package eu.sig.training.ch04;
+package main.eu.sig.training.maintainabilitybook.ch04_duplication.bankaccounts;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
