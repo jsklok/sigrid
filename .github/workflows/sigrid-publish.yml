@@ -14,7 +14,7 @@ jobs:
         uses: Software-Improvement-Group/sigridci@main
         with:
           customer: sigridworkshop
-          system: js_klok
+          system: josklok
           publishonly: true
         env:
           SIGRID_CI_TOKEN: "${{ secrets.SIGRID_CI_TOKEN }}"
