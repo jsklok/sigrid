@@ -4,6 +4,9 @@ This repository is part of the Sigrid training.<br />
 You will need access to Sigrid to complete this training.<br />
 If you want to use this code in a training yourself please contact us at <support@sig.eu>.
 
+
+
+
 About The Assignment Code
 -----------
 The training examples are code snippets from the book Building Maintainable Software: Ten Guidelines for Future-Proof Code by Joost Visser.
