@@ -1,6 +1,10 @@
 package eu.sig.training.ch04;
 
+/**
+ * 
+ */
 public class Money {
+
     @SuppressWarnings("unused")
     public boolean greaterThan(int limit) {
         return true;
@@ -16,4 +20,5 @@ public class Money {
 
     @SuppressWarnings("unused")
     public void substract(Money interest) {}
+    
 }

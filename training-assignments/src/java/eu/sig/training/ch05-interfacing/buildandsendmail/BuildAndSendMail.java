@@ -1,6 +1,10 @@
 package eu.sig.training.ch05.buildandsendmail;
 
+/**
+ * 
+ */
 public class BuildAndSendMail {
+    
     // tag::buildAndSendMail[]
     public void buildAndSendMail(MailMan m, String firstName, String lastName,
         String division, String subject, MailFont font, String message1,
