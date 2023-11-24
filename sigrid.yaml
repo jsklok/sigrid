@@ -1,0 +1,8 @@
+
+#
+exclude:
+  - ".*/target"
+
+#
+languages:
+  - name: java
