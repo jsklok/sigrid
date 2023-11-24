@@ -1,6 +1,11 @@
 
-#
-exclude:
+
+components:
+- name: "spring"
+  include:
+  - ".*/pom.xml"
+  - ".*/src/**"
+  exclude:
   - ".*/target"
 
 #
