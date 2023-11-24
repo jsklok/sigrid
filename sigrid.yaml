@@ -4,7 +4,7 @@ components:
 - name: "spring"
   include:
   - ".*/pom.xml"
-  - ".*/src/**"
+  - ".*/src"
   exclude:
   - ".*/target"
 
